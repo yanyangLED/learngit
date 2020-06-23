@@ -6,3 +6,5 @@ Year,the bug is solved.
 oh, no! another bug!
 Yes, I come again. The bug occurs again, too.
 test if I can push without password.
+last time, I failed.
+So , I try again.
